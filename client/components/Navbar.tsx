@@ -34,7 +34,7 @@ const Navbar = () => {
             </div>
           </Link>
           <p className='text-primary-200 hidden md:block'>
-            Discover your perfect rental apartments with   our advance AI search
+            Discover your perfect rental apartments with  our advance AI search
           </p>
           <div className='flex items-center gap-3 md:gap-5'>
             <div className='flex items-center gap-5'>
